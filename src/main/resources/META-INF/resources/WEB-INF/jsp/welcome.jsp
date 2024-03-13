@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    Welcome ${name}, ${password}
+    Welcome to in28minutes ${name}
+    <a href="list-todos">Manage Todos</a>
 </body>
 </html>

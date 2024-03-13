@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,11 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <p>login to your account</p>
-    <form method="post">
-        Name: <input type="text" name="name">
-        Password: <input type="password" name="password">
-        <input type="submit" value="login">
+    Add Todo
+    <form action="" method="post">
+        <input type="text" name="" id="">
+        <input type="submit" value="add">
     </form>
 </body>
 </html>
